@@ -1,0 +1,14 @@
+{
+  "fully_synthetic": true,
+  "seed": 20261115,
+  "n": 5000,
+  "numpy_version": "2.3.5",
+  "protein_count": 5,
+  "metabolite_count": 12,
+  "deaths": 1184,
+  "disease_free": 3245,
+  "administrative_end_date": "2023-02-01",
+  "excluded_center_rows": 448,
+  "missing_values": 0,
+  "source": "Fixed distributions and arbitrary coefficients; no UK Biobank data"
+}
